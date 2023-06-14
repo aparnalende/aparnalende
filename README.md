@@ -35,7 +35,8 @@ You can click the Preview link to take a look at your changes.
 <summary><b> Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/aparnalende"><img alt="aparnalende's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aparnalende&custom_title=aparnalende's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+
+   <br/>
 
 
 <br/>
